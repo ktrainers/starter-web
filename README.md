@@ -8,8 +8,10 @@ This example is to show different parts of git
 
 ## Purpose
 
+Sample website with plenty of files for demos
+
 ## Deployment
 
-Sample website with plenty of files for demos
+Deployment can be on any webserver as long as you gots the skillz
 
 ## How To Contribute
