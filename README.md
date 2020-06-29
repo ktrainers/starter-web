@@ -16,6 +16,8 @@ Deployment can be on any webserver as long as you gots the skillz
 
 ## How To Contribute
 
+Please fork this repository and thenissue Pull Requests for review
+
 ## Copyright
 
 2020 Git.Training
