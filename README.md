@@ -1,6 +1,6 @@
 # Starter Web Project
 
-This repository is for showing how Git and GitHub work.  This is a simple website project. Adding some more stuff here.
+This repository is for showing how Git and GitHub work.  This is a simple website project. Adding some more stuff here, then more changes from my feature branch too.
 
 ## Introduction
 
